@@ -1,1 +1,1 @@
-# SPAM-SMS-CLASSIFIER
+# Spam-SMS-Detector
